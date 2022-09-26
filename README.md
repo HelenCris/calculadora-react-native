@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/79730539/188878041-a3ff44f2-a1b4-4659-
 
 This project was developed with the following technologies:
 
-- [React Native](https://flutter.dev/)
+- [React Native](https://reactnative.dev/)
 
 ## :information_source: How To Use
 
